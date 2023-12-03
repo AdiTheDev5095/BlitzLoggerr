@@ -1,0 +1,10 @@
+	----------Welocome To blitz Logger Version 1.0---------
+	
+	1) format of args  is (str message {} {}....,args1,args2,....)
+	2) to use the logger u can include the BlitzLogger.h header file
+	3) BlitzLogger.cpp is an example file u can see
+	4) The macros are defined under the namespace Blitz_Logger which includes the funcns.
+	5) to modify the Logger u can modify in BlitzLogger.h
+
+	///----Just a Simple Logger u Can Upgrade for your Complex use
+	//---------Thanx For Using-----------------------
